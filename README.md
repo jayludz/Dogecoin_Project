@@ -1,4 +1,4 @@
-# Dogecoin-Project
+# Dogecoin_Project
 
 Author: John Ludlum
 
